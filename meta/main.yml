@@ -1,0 +1,21 @@
+galaxy_info:
+  author: Brian O'Reilly
+  description: Register and attach system using Red Hat Subscription Manager
+  company: Central Payment
+
+  license: license (BSD)
+  
+  min_ansible_version: 1.8
+
+  platforms:
+  - name: EL
+    versions:
+    - 7
+
+  galaxy_tags:
+    - rhel
+    - redhat
+    - subscriptionmanager
+    - packaging
+
+dependencies: []
